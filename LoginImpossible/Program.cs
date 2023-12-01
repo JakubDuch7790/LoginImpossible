@@ -2,6 +2,7 @@ namespace LoginImpossible
 {
     public class Program
     {
+        //fake testing commit
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
